@@ -1,8 +1,10 @@
-title: This is Rudiana 
+title: Maliha Rudiana
+subtitle: My own space
 remote_theme: chrisbobbe/jekyll-theme-prologue
 url: https://maliharudiana.github.io
-description: Welcome, you wanderer
 author: Maliha Rudiana
+description: >
+  My own space for musings
 avatar: assets/images/avatar.jpg
 collections: [sections]
 
