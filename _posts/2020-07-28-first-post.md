@@ -1,6 +1,6 @@
 ---
-title: First Post
-author: Chris
+title: Foo Bar
+author: Rudiana
 layout: post
 ---
 First post

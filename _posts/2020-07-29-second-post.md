@@ -1,6 +1,6 @@
 ---
-title: First Post
+title: How is everyone
 author: Rudiana
 layout: post
 ---
-Second post
+COVID-19 crisis
