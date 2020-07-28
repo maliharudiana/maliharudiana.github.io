@@ -3,7 +3,6 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 url: https://maliharudiana.github.io
 description: Welcome, you wanderer
 author: Maliha Rudiana
-email: maliha_rudiana@gmail.com
 avatar: assets/images/avatar.jpg
 collections: [sections]
 
