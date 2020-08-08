@@ -1,5 +1,5 @@
 ---
-title: How is everyone in COVID-19 crisis
+title: COVID-19 Crisis
 author: Rudiana
 layout: post
 ---
